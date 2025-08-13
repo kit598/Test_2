@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("b3 real real");
+	printf("b3 real real\n");
 
 	// 21jun 22:55
 	// 21jun 22:56
